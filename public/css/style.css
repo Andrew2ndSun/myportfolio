@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(207, 110, 24);
+    background-color: rgb(252, 252, 252);
     font-family: 'Oswald', sans-serif;
 }
 
@@ -7,9 +7,9 @@ body{
     background: rgb(204,204,204); 
   }
   page[size="A4"] {
-    background: white;
+    background: rgb(234, 218, 187);
     width: 21cm;
-    height: 29.7cm;
+    height: 50cm;
     display: block;
     margin: 0 auto;
     margin-bottom: 0.5cm;
